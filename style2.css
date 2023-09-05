@@ -1,0 +1,120 @@
+.header-line{
+	display:flex;
+	margin-left: auto;
+	margin-right: auto;
+	width:19em;
+}
+h1, h2{
+	padding-top:10px;
+	font-family: "Courier New", Courier, monospace;
+	font-weight:bold;
+	font-size:48px;
+	line-height:45px;
+	color:#9966cc;
+	margin-left: auto;
+	margin-right: auto;
+	width:6em
+}
+h3{
+	padding-top:10px;
+	font-family: "Courier New", Courier, monospace;
+	font-weight:bold;
+	font-size:25px;
+	line-height:10px;
+	color:#9966cc;
+	margin-left: auto;
+	margin-right: auto;
+	width:30em
+}
+
+input{
+	width: 75%;
+}
+input{
+	background-color: #fff;
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2) ;
+	color: black;
+	padding:1em 1.5em;
+	border: 2px solid black;
+	margin:10px 12.5% 10px 12.5%;
+}
+input:focus{
+	box-shadow: 12px 12px 2px 1px #6f00cc ;
+}
+.norm{
+	border: 2px solid black;
+	color:black;
+	background-color: #fff;
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2) ;
+	padding-top:10px;
+	margin-top:10px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	width:75%;
+	height: 40px;
+}
+legend{
+	color:#7410d0;
+}
+.nav-item{
+background-color: #fff;
+  	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2) ;
+  	color: black;
+  	padding: 1em 1.5em;
+  	position: relative;
+  	text-decoration: none;
+  	border: 2px solid black;
+  	margin-right:25px;
+  	margin-bottom:10px;
+
+}
+.nav-item:hover{
+box-shadow: 12px 12px 2px 1px #6f00cc ;
+}
+.nav-item:active{
+  	box-shadow: none;
+  	top: 5px;
+}
+.ans-item{
+	background-color: #fff;
+  	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2) ;
+  	color: black;
+  	padding: 1em 1.5em;
+  	
+  	text-decoration: none;
+  	border: 2px solid black;
+  	margin-right:25px;
+  	margin-bottom:10px;
+}
+.ans-item:hover{
+box-shadow: 12px 12px 2px 1px #6f00cc ;
+}
+.ans-item:active{
+  	box-shadow: none;
+  	top: 5px;
+}
+.ans-line{
+position: relative;
+bottom:37px;
+left:90%;
+}
+.ans{
+border: 2px solid black;
+	color:black;
+	background-color: #fff;
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2) ;
+	padding-top:10px;
+	margin-top:10px;
+	margin-left:21.5%;
+	margin-right: auto;
+	width:75%;
+	height: 40px;
+}
+
+
+
+
+
+
+
